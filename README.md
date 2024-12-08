@@ -14,7 +14,7 @@
 <img width="414" alt="LLemon-menu_item" src="https://github.com/user-attachments/assets/d166fe23-7cf5-4f4e-b138-83d2671f8209">
 
 ## Admin page
-![LLemon-add_item](https://github.com/user-attachments/assets/6d893fa5-c7e5-4acd-93b6-6aae98f95759)
+![LLemon-add_item](https://github.com/user-attachments/assets/d04ffa77-1d5b-437e-a04b-5246d69334d6)
 
 ## How to use:
 - Clone the repository.
